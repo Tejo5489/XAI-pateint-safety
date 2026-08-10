@@ -1,0 +1,6 @@
+{
+  "name": "XAI Patient Safety Dashboard",
+  "description": "Python & Streamlit ICU Telemetry Deterioration Risk Engine with XGBoost, Random Forest, TreeSHAP & LIME Interpretability, What-If Sensitivity Simulator, and Discharge Exports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
